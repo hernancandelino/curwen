@@ -1,0 +1,79 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background: url(../img/fondo.jpg);
+}
+
+/* nav */
+.navbar {
+    .container-fluid {
+        .navbar-toggler{
+        }
+        .collapse {
+            .navbar-nav {
+                display: flex;
+                justify-content: space-evenly;
+                .nav-item {
+                    .nav-link {
+                    }
+                }
+            }
+        }
+    }
+}
+/* index */
+.encabezado {
+    text-align: center;
+    justify-self: center;
+    color: white;
+    h1 {
+    }
+    p {
+    }
+}
+/* quienes somos */
+.biografia {
+    color: white;
+    h2 {
+    }
+    div {
+        display: flex;
+        p {
+        }
+        img {
+        }
+    }
+}
+.integrantes {
+    color: white;
+    h3 {
+    }
+    div {
+        display: flex;
+        p {
+        }
+        img {
+        }
+    }
+}
+/* fotos */
+.grid {
+    display: grid;
+    grid-template-columns: auto;
+    div {
+        width: 100%;
+        height: 100%;
+        img {
+        }
+    }
+}
+/* videos */
+.videos {
+    div {
+        p {
+            color: white;
+        }
+        iframe {
+        }
+    }
+}
